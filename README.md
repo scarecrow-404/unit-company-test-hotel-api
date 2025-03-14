@@ -13,8 +13,8 @@ A REST API for managing hotel information built with Node.js, Express, and Postg
 1. Clone the repository:
 
 ```bash
-git clone
-cd
+git clone https://github.com/scarecrow-404/unit-company-test-hotel-api.git
+cd unit-company-test-hotel-api
 ```
 
 2. Install dependencies:
